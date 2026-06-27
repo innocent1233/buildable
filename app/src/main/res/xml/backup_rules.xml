@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Local "solo mode" students/settings DataStore is backed up like the original
+         localStorage-based persistence in lib/store.ts. -->
+    <include domain="sharedpref" path="." />
+</full-backup-content>

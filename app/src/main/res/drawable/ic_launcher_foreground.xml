@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Neon green ring -->
+    <path
+        android:strokeWidth="6"
+        android:strokeColor="#39FF8C"
+        android:fillColor="#00000000"
+        android:pathData="M54,18 A36,36 0 1,1 53.99,18 Z"/>
+    <!-- "LX" text approximated as paths -->
+    <path
+        android:fillColor="#39FF8C"
+        android:pathData="M34,40 L34,68 L40,68 L40,40 Z M34,40 L34,47 L46,47 L46,40 Z M34,61 L34,68 L46,68 L46,61 Z"/>
+    <path
+        android:fillColor="#39FF8C"
+        android:pathData="M56,40 L62,54 L68,40 L74,40 L65,57 L74,68 L68,68 L62,60 L56,68 L50,68 L59,57 L50,40 Z"/>
+</vector>

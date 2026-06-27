@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme: Compose handles real theming in ui/theme/Theme.kt.
+         This XML theme only sets the splash/launch background before Compose attaches. -->
+    <style name="Theme.StudyLabManager" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0A0E1F</item>
+        <item name="android:windowBackground">#0A0E1F</item>
+    </style>
+</resources>

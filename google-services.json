@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498489372389",
+    "project_id": "study-lab-4088e",
+    "storage_bucket": "study-lab-4088e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498489372389:android:91a0b93a9138aa6d23ae0c",
+        "android_client_info": {
+          "package_name": "com.libraryx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498489372389-0f6nuj08dhbo5u9gc77ovn6qcuhk1ehq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TAR9m_G2oBI3TM1whCQTTsyoasrnrUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498489372389-0f6nuj08dhbo5u9gc77ovn6qcuhk1ehq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
